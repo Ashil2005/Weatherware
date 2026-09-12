@@ -2,7 +2,7 @@
 
 
 
-# [Project Name] 🎯
+# Weatherware 🎯
 
 
 ## Basic Details
@@ -89,7 +89,6 @@ Weatherware ships with **five** kinds of weather:
   
 
 ### Project Documentation
-For Software:
 
 For Software:
 
