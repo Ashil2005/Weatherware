@@ -94,14 +94,29 @@ For Software:
 For Software:
 
 ### Screenshots
-![https://drive.google.com/file/d/16XAtD7RSmPkboQh--H1SVoK0zMOl8FRo/view?usp=sharing](screenshots/sunny.png)
+[sunny](https://drive.google.com/file/d/16XAtD7RSmPkboQh--H1SVoK0zMOl8FRo/view?usp=sharing)]
+<img width="1917" height="1077" alt="Screenshot 2026-09-12 065205" src="https://github.com/user-attachments/assets/9c501f38-169e-4676-b2a6-39eb8c5c252e" />
+
 *Sunny weather taking over the desktop — brightness at max, animated sun and god-rays, heat shimmer, and the fan switched to quiet mode.*
 
-![https://drive.google.com/file/d/1vLD1ieDENnpzkFW_ua2xXFBdvRGYcL2K/view?usp=sharing](screenshots/rainy.png)
+[rainy](https://drive.google.com/file/d/1vLD1ieDENnpzkFW_ua2xXFBdvRGYcL2K/view?usp=sharing)
 *Rainy weather over live apps — storm clouds, parallax rain, condensation fog you wipe with the cursor, and the fan roaring for real cooling.*
+<img width="1917" height="1078" alt="Screenshot 2026-09-12 065403" src="https://github.com/user-attachments/assets/f42985c5-5c1b-4758-a490-85278ce87b5c" />
 
-![https://drive.google.com/file/d/15I1Q3uzpg5dPGwJbMa4-YWSczuLiAcOT/view?usp=sharing](screenshots/snowy.png)
-*Snowy weather — falling snow accumulating at the bottom of the screen with the display dimmed to its coldest.*
+
+[snowy](https://drive.google.com/file/d/15I1Q3uzpg5dPGwJbMa4-YWSczuLiAcOT/view?usp=sharing)
+*Snowy weather — falling snow accumulating at the bottom of the screen with the display dimmed to its coldest.*![Uploading Screenshot 2026-09-12 065205.png…]()
+<img width="1917" height="1077" alt="Screenshot 2026-09-12 065639" src="https://github.com/user-attachments/assets/3e214eb2-8c86-4ad7-9fcf-d3523628778f" />
+**🌬️ Windy**
+[windy](https://drive.google.com/file/d/1_RvdzH-449Oe3KdtVBamuSqAeeTJlr3B/view?usp=sharing)
+*Windy weather — clouds and leaves streaking across the screen in one direction, with the fan gusting along.*
+
+<img width="1917" height="1078" alt="Screenshot 2026-09-12 071759" src="https://github.com/user-attachments/assets/d5f91d33-16b6-4bcf-839f-2930624f6a67" />
+**🌦️ Sunshower**
+[sunshower](https://drive.google.com/file/d/1PfxhVo6YrCrKNFZfWWpNrWfsna8cKWjQ/view?usp=sharing)
+*Sun and rain at the same time — the rare condition that triggers the hidden surprise. (No spoilers here — watch the demo video for what happens next.)*<img width="1917" height="1078" alt="Screenshot 2026-09-12 072400" src="https://github.com/user-attachments/assets/e4d2b985-60da-416e-8170-0549e1705ff7" />
+
+
 
 ### Diagrams
 ![https://drive.google.com/file/d/1oPkOjqdCz1whuWQU2nwy5dYGEWiXRuwE/view?usp=sharing](screenshots/architecture.png)
