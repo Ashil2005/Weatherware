@@ -110,7 +110,6 @@ For Software:
 **🌬️ Windy**
 [windy](https://drive.google.com/file/d/1_RvdzH-449Oe3KdtVBamuSqAeeTJlr3B/view?usp=sharing)
 *Windy weather — clouds and leaves streaking across the screen in one direction, with the fan gusting along.*
-
 <img width="1917" height="1078" alt="Screenshot 2026-09-12 071759" src="https://github.com/user-attachments/assets/d5f91d33-16b6-4bcf-839f-2930624f6a67" />
 **🌦️ Sunshower**
 [sunshower](https://drive.google.com/file/d/1PfxhVo6YrCrKNFZfWWpNrWfsna8cKWjQ/view?usp=sharing)
@@ -119,7 +118,7 @@ For Software:
 
 
 ### Diagrams
-![https://drive.google.com/file/d/1oPkOjqdCz1whuWQU2nwy5dYGEWiXRuwE/view?usp=sharing](screenshots/architecture.png)
+[architecture](https://drive.google.com/file/d/1oPkOjqdCz1whuWQU2nwy5dYGEWiXRuwE/view?usp=sharing)
 *Architecture: a scheduler/state-machine picks a random weather, each scene drives real hardware effects (brightness, power mode, Lenovo fan) plus a transparent click-through overlay for visuals and layered audio — and rarely fires the hidden sunshower wedding sequence.*
 
 ### Project Demo
