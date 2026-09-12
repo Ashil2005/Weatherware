@@ -1,9 +1,11 @@
-# Weatherware — dependencies
+# Weatherware - dependencies (Windows)
 pygame                      # window, rendering, sound/music playback
 screen-brightness-control   # the ONLY real hardware effect we touch
 keyboard                    # global hotkeys (Ctrl+Shift+Q kill switch)
-psutil                      # read-only system stats (feeds the FAKE heat gauge)
+psutil                      # read-only system stats for the warm-up cap (warmup.py)
 pystray                     # system tray icon
 Pillow                      # tray icon imaging + asset helpers
-plyer                       # desktop notifications ("weather alerts")
+plyer                       # desktop notifications ("weather alerts") -- not imported today
+pywin32                     # pythoncom for the Lenovo WMI calls (lenovo.py); wmi needs it too
+wmi                         # Lenovo GAMEZONE smart-fan preset (lenovo.py)
 pyinstaller                 # packaging for the demo build
